@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Jason Zhang and I am a first year in LSA. I am undecided about my major but it will probably either be data science or computer science. I can solve a 3x3 rubik's cube in around 30 seconds.
